@@ -9,14 +9,14 @@ w
 w
 w
 w
-w							g
-w							g
-w							g
-w							g
-w                           g
+w						g	g
+w						g	g
+w						g	g
+w						ggggg
+w          g                g
 w              gggccccccccc g
 w             grrr cccccccccr
 w            grrrrccccccccc r
-w  p        grrrrr ccccccccc                                                                                            x
+w  p        grrrrr ccccccccc          g      e    e   e                                                                     x
 wccccccccccgrrccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 wcccccccccgrrcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc

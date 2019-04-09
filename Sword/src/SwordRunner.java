@@ -5,8 +5,6 @@ import java.io.FileNotFoundException;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
-import javax.swing.JFrame;
-import javax.swing.Timer;
 
 import sun.invoke.empty.Empty;
 
@@ -37,6 +35,7 @@ public class SwordRunner extends JPanel
 				Menu.fillArray();
 				Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
 				JFrame frame = new JFrame("Sword");
+				JOptionPane.showMessageDialog(frame, "You are a pathogen, infecting the brain of a human. Get to the end, and answer a question about the region of the brain you're in to advance!");
 				frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				frame.setSize(1000, 880);
 				SwordRunner game = new SwordRunner();
