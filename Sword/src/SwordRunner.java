@@ -34,6 +34,7 @@ public class SwordRunner extends JPanel
 		
 		public static void main(String[] args)
 			{
+				Menu.fillArray();
 				Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
 				JFrame frame = new JFrame("Sword");
 				frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -329,6 +330,7 @@ public class SwordRunner extends JPanel
 				}
 			if(checks[3])
 				{
+					Menu.doQuestionMenu();
 					levelNum++;
 					readLevel();
 				}
